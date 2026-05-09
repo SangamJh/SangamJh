@@ -102,6 +102,8 @@ Focus    : Backend, DevOps, System Design
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SangamJh&theme=tokyonight&hide_border=true&layout=compact)
 
+![](https://github-profile-trophy.vercel.app/?username=SangamJh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
 </div>
 
 ---
@@ -116,6 +118,8 @@ Focus    : Backend, DevOps, System Design
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/SangamJh)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SangamJh&style=for-the-badge&color=8245ec)
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=3000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=60&lines=The+best+way+to+learn+is+to+build+something+that+matters.)
 
 </div>
 
