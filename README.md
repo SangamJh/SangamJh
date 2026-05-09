@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hi, I'm Sangam<br>I'm a passionate developer who loves building real-world solutions through code. I enjoy exploring how things work under the hood and turning ideas into practical software.<br>Currently, I work with the MERN stack (MongoDB, Express.js, React, Node.js) and have a growing interest in DevOps and system-level understanding. I like solving everyday problems with technology and continuously improving my skills.<br>What I’m focused on:<br>Building meaningful backend projects<br>Strengthening my Data Structures & Algorithms<br>Learning DevOps and system design<br>Exploring new technologies to create impactful solutions<br>I believe in learning by doing and constantly pushing my limits to become a better developer.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8245EC&width=500&lines=Hello;नमस्ते;Hola;Bonjour)](https://git.io/typing-svg)
+, I am Sangam<br>
+I am [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8245EC&width=500&lines=Fullstack+Developer;AI+Enthusiast;Software+Engineer;Coder)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8245EC&width=500&lines=Fullstack+Developer;AI+Enthusiast;Software+Engineer;Coder)](https://git.io/typing-svg)
+<br>
+I'm a passionate developer who loves building real-world solutions through code. I enjoy exploring how things work under the hood and turning ideas into practical software.<br>Currently, I work with the MERN stack (MongoDB, Express.js, React, Node.js) and have a growing interest in DevOps and system-level understanding. I like solving everyday problems with technology and continuously improving my skills.<br>What I’m focused on:<br>Building meaningful backend projects<br>Strengthening my Data Structures & Algorithms<br>Learning DevOps and system design<br>Exploring new technologies to create impactful solutions<br>I believe in learning by doing and constantly pushing my limits to become a better developer.
+
 
 
 ## 🌐 Socials:
