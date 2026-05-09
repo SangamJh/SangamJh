@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=4000&color=FFFFFF&center=true&width=435&lines=Hello+%F0%9F%91%8B;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F;Hola+%F0%9F%87%AA%F0%9F%87%B8;Bonjour+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
-# I am Sangam Jha
+# Hello I am Sangam Jha
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=8245EC&center=true&width=435&lines=Fullstack+Developer;AI+Enthusiast;Software+Engineer;Coder)](https://git.io/typing-svg)
 
